@@ -14,3 +14,4 @@ we made a data generator for entering the data to the model to be able to train 
 
 the accuracy reached 51%
 dataset link:https://ieee-dataport.org/open-access/oculusgraphy-pediatric-and-adults-electroretinograms-database
+kaggle notebook:https://www.kaggle.com/code/asmaamohamedashmawy/copy-of-signalspoject2
