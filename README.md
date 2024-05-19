@@ -13,3 +13,4 @@ the data splitted 80% training, 10% validation and 10% test
 we made a data generator for entering the data to the model to be able to train with learning rate = 0.001, epochs =10 and batch sie=32 model architecture(ResNet-50)
 
 the accuracy reached 51%
+dataset link:https://ieee-dataport.org/open-access/oculusgraphy-pediatric-and-adults-electroretinograms-database
